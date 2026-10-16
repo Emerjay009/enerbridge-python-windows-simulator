@@ -14,8 +14,8 @@ USERS_FILE = BASE_DIR / "users.json"
 ROOM_NAMES = ["Classroom 1", "Classroom 2", "Classroom 3"]
 
 #Gmail Notification System (for approved administrators)
-GMAIL_SENDER = "coffeestudiosph@gmail.com"
-GMAIL_APP_PASSWORD = "qvxy zesc pssl cnyb"
+GMAIL_SENDER = "YOUR_EMAIL_HERE"
+GMAIL_APP_PASSWORD = "YOUR_APP_PASSWORD_GET_IT_FROM_YOUR_GOOGLE_SETTINGS"
 
 
 def now_text():
